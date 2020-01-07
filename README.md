@@ -1,4 +1,4 @@
-# instawork-assignment
+# Instawork assignment
 This is a take-home assignment given by Instawork
 
 ## Project Goal
