@@ -39,7 +39,7 @@ def test_get_all_team_members():
     global UNIQUE_MEMBER_ID
     r = requests.get(API_URL_BASE + "/team-members/")
     pretty_print_response(r)
-    UNIQUE_MEMBER_ID = str(r.json()[0]['id'])
+    UNIQUE_MEMBER_ID = str(r.json()[1]['id'])
 
 
 # Update team member API test
