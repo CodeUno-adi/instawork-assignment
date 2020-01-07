@@ -1,0 +1,11 @@
+# Only the main packages are mentioned in this file
+# since peer dependencies for packages are automatically installed along with the package
+# Also to keep track of what packages are actually used by the app
+
+Django==3.0.2
+mysqlclient==1.4.6
+djangorestframework==3.11.0
+django-phonenumber-field==4.0.0
+phonenumberslite==8.11.1
+requests==2.22.0
+
