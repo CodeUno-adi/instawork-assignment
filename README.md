@@ -30,7 +30,7 @@ Please run the following commands sequentially
   - Creates the database `iw_db` and user `iw_user`. 
   - Restores the db dump from `~/instawork-assignment/dumps/iw_db_dump.sql`
   
- Also the dump which is restored contains one team member.
+Also the dump which is restored contains ***one team member***.
 
 #### Python env setup
 Please run the following commands sequentially
